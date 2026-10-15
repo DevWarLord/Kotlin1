@@ -1,0 +1,30 @@
+2026-10-05|LECTURE|Classes and delegation|Room 312|Portnov
+2026-10-08|PRACTICE|Domain modeling|Room 312|Anokhin
+2026-10-15|EXAM|Oral exam 1|Room 401|Portnov,Stepanova
+2026-10-19|CANCELLED|Lecture postponed|-|-
+2028-02-29|LECTURE|Leap day  with inner spaces|Main hall, room 3|Van der Berg,van der berg
+0001-01-01|PRACTICE|First possible day|Lab|Ivanov
+9999-12-31|CANCELLED|Last possible day|-|-
+
+2026-10-05;LECTURE;Wrong separator;Room 1;Ivanov
+2026-10-05|LECTURE|Six fields|Room 1|Ivanov|
+2026-10-05|LECTURE|Four fields|Room 1
+2026-10-05|LECTURE|   |Room 1|Ivanov
+2026-13-45|SEMINAR|Topic|Room 1|Ivanov
+2026-02-29|LECTURE|Not a leap year|Room 1|Ivanov
+0000-01-01|LECTURE|Year zero|Room 1|Ivanov
+2026-10-05|lecture|Lower case type|Room 1|Ivanov
+2026-10-05|EXAM|One teacher|Room 1|Ivanov
+2026-10-05|EXAM|Dash does not count|Room 1|Ivanov,-
+2026-10-05|EXAM|Topic|Room 1|Ivanov,Ivanov
+2026-10-05|LECTURE|Tab	inside|Room 1|Ivanov
+2026-10-05|LECTURE|Topic |Room 1|Ivanov
+2026-10-05|EXAM|Topic|Room 1|Ivanov, Petrov
+2026-10-05|CANCELLED|Topic|Room 1|-
+2026-10-05|CANCELLED|Topic|-|Ivanov
+2026-10-05|PRACTICE|Topic|-|Ivanov
+2026-10-05|LECTURE|Topic|Room 1|-
+2026-10-05|LECTURE|Topic|Room 1|Ivanov,
+2026-10-05|LECTURE|Тема|Room 1|Ivanov
+2026-10-05|SEM"INAR\|Topic|Room 1|Ivanov
+2026-10-05|EXAM|Topic|Room 1|A,B,C,B

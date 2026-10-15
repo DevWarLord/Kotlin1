@@ -1,0 +1,23 @@
+line 8: invalid field separator
+line 9: invalid field separator
+line 10: got 6 fields, expected 5
+line 11: got 4 fields, expected 5
+line 12: empty required field "topic"
+line 13: invalid date "2026-13-45"
+line 14: invalid date "2026-02-29"
+line 15: invalid date "0000-01-01"
+line 16: unknown session type "lecture"
+line 17: type "EXAM" requires at least 2 teachers, got 1
+line 18: type "EXAM" requires at least 2 teachers, got 1
+line 19: duplicate teacher "Ivanov"
+line 20: control character in field "topic": "Tab\u0009inside"
+line 21: leading or trailing whitespace in field "topic": "Topic "
+line 22: leading or trailing whitespace in field "teachers": " Petrov"
+line 23: type "CANCELLED" requires "-" in field "location", got "Room 1"
+line 24: type "CANCELLED" requires "-" in field "teachers", got "Ivanov"
+line 25: type "PRACTICE" requires a location, got "-"
+line 26: invalid teacher name "-" at position 1
+line 27: invalid teacher name "" at position 2
+line 29: unknown session type "SEM\"INAR\\"
+line 30: duplicate teacher "B"
+Rejected: 22 of 30
